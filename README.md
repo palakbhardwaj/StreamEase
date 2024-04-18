@@ -1,4 +1,5 @@
 # StreamEase
+
  A Figma project for crafting a seamless and intuitive UI/UX design for an Over-The-Top (OTT) platform, ensuring effortless content discovery and enjoyable streaming experiences.
 
 Figma Link: https://www.figma.com/file/rn7fsrhQn2zYs14g2v2T6W/Drill-Excerise-3%3A-OTT-app-(Community)?type=design&node-id=0%3A1&mode=design&t=s7VJzUbt4p85qTSy-1
