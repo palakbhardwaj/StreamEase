@@ -42,7 +42,3 @@ In this section, provide a brief overview of what the project entails and its si
 ### Final Thoughts
 Designing a UI/UX for an OTT platform on Figma is an iterative process that requires a balance of creativity, usability, and functionality. By following the steps outlined in this guide and leveraging Figma's powerful features, you can create a compelling and intuitive experience for your users. Happy designing!
 
-### Additional Resources
-- [Figma Documentation](https://www.figma.com/resources/docs/)
-- [UI/UX Design Principles](https://www.interaction-design.org/literature/topics/ui-design)
-- [Accessibility Guidelines](https://www.w3.org/WAI/WCAG21/quickref/)
